@@ -1,0 +1,57 @@
+.body{
+    background-size: cover;
+}
+.nav{
+    background-color: skyblue;
+    display: block;
+    text-align: right;
+    padding-top: 20px;
+    padding-bottom: 20px;
+   
+   
+}
+.link{
+    
+    color: blue;
+    padding-left: 0px;
+    padding-right: 30px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-right: 20px;
+    margin-left: 20px;
+   
+   
+
+}
+
+.container{
+    display: flex;
+    gap: 10px;
+}
+p{
+   
+    width: 300px;
+    float:inline-start;
+    flex: 1;
+    display: inline-block;
+    background-color: orange;
+}
+.m{
+    flex: 2;
+    float: inline-end;
+    display: inline-block;
+    background-color: pink;
+}
+.footer{
+
+    background-color: orange;
+    display: block;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: right;
+    
+}
+.img{
+    width: 50px;
+    margin-right: 40%;
+    }
